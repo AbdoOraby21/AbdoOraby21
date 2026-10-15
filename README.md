@@ -1,8 +1,3 @@
-<!-- ===== Header banner ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,20,24&amp;height=160&amp;section=header&amp;text=Abdelrahman%20Oraby&amp;fontSize=46&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20%26%20Data%20Engineer%20%C2%B7%20Full-Stack%20%C2%B7%20Flutter%20%C2%B7%20Embedded&amp;descAlignY=60&amp;descSize=16" width="100%" />
-</p>
-
 <!-- ===== Animated binary portrait -> robot -> name ===== -->
 <p align="center">
   <img src="./bits.svg" alt="Abdo Oraby" width="100%" />
@@ -92,16 +87,7 @@ class Abdo:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AbdoOraby21&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdoOraby21&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AbdoOraby21&amp;theme=tokyonight&amp;hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdoOraby21&amp;theme=onedark&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=10" />
+  <img src="./github-metrics.svg" alt="GitHub metrics" width="100%" />
 </p>
 
 ## 🐍 Contribution Snake
@@ -119,7 +105,3 @@ class Abdo:
 ## 📫 Let's Build Something
 
 I'm open to freelance work and collaborations in **AI, web and Flutter**. Find me on [LinkedIn](https://www.linkedin.com/in/abdelrahman-oraby-92588a2a5), [email](mailto:orabyabdo21@gmail.com), or my [portfolio](https://abdo-oraby.myftp.org).
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,20,24&amp;height=100&amp;section=footer" width="100%" />
-</p>
