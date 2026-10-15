@@ -1,10 +1,11 @@
-<!-- Header banner -->
+<!-- ===== Header banner ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=210&section=header&text=Abdelrahman%20Oraby&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20Data%20Engineer%20%C2%B7%20Full-Stack%20%C2%B7%20Flutter%20%C2%B7%20Embedded&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=160&section=header&text=Abdelrahman%20Oraby&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Engineer%20%C2%B7%20Full-Stack%20%C2%B7%20Flutter%20%C2%B7%20Embedded&descAlignY=60&descSize=16" width="100%" />
 </p>
 
+<!-- ===== Animated binary portrait -> robot -> name ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Abdo+%F0%9F%91%8B;I+train+neural+networks+and+ship+full-stack+apps;I+make+robots+see%2C+move+and+think+%F0%9F%A4%96;Head+of+PR+%40+IEEE+BUA+Student+Branch;Open+for+freelance+projects+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="./bits.svg" alt="Abdo Oraby" width="100%" />
 </p>
 
 <p align="center">
